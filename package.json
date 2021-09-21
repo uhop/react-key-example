@@ -1,8 +1,8 @@
 {
   "name": "react-key-example",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A companion for a presentation on common React pitfalls.",
+  "private": true,
   "scripts": {
     "start": "webpack serve --config webpack.config.js"
   },
